@@ -4,7 +4,7 @@ import tkinter as tk
 from tkinter import messagebox
 from tkinter import simpledialog
 
-Message = "Bayot Lindo" # Ang mo gawas sa testfile before ma encrypt Pwede jud ni ma ilisan nimo
+Message = "corned beef AHAHAH" # Ang mo gawas sa testfile before ma encrypt Pwede jud ni ma ilisan nimo
 
 class Safe:
     def __init__(self):
